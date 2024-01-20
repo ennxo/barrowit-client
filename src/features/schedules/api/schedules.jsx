@@ -1,0 +1,1 @@
+export const getSchedules = '/api/reservation/schedules'
