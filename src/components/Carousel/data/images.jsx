@@ -1,0 +1,17 @@
+import image1 from "/images/01.png"
+import image2 from "/images/02.png"
+import image3 from "/images/03.png"
+import image4 from "/images/04.png"
+import image5 from "/images/05.png"
+import image6 from "/images/06.png"
+import image7 from "/images/07.png"
+import image8 from "/images/08.png"
+import image9 from "/images/09.png"
+import image10 from "/images/10.png"
+import image11 from "/images/11.png"
+import image12 from "/images/12.png"
+import image13 from "/images/13.png"
+import image14 from "/images/14.png"
+import image15 from "/images/15.png"
+
+export const images = [image1, image2, image3, image4, image5, image6, image7, image8, image9, image10, image11, image12, image13, image14, image15]
