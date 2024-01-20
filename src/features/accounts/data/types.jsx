@@ -1,0 +1,16 @@
+export const types = [
+  { value: "National ID", label: "National ID" },
+  { value: "UMID", label: "UMID" },
+  { value: "TIN ID", label: "TIN ID" },
+  { value: "Philhealth Card", label: "Philhealth Card" },
+  { value: "Driver's License", label: "Driver's License" },
+  { value: "Passport", label: "Passport" },
+  { value: "Student's ID", label: "Student's ID" },
+  { value: "Voter's ID", label: "Voter's ID" },
+  { value: "SSS ID", label: "SSS ID" },
+  { value: "Alien/Immigrant COR", label: "Alien/Immigrant COR" },
+  { value: "HDMF ID (Pagibig)", label: "HDMF ID (Pagibig)" },
+  { value: "Postal ID", label: "Postal ID" },
+  { value: "PRC ID", label: "PRC ID" },
+  { value: "Others", label: "Others" },
+]
