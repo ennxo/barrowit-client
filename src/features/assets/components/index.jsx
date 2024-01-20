@@ -1,0 +1,7 @@
+export * from './Table'
+export * from './StockTable'
+export * from './AddAsset'
+export * from './DeleteModal'
+export * from './UpdateAsset'
+export * from './PrintTemplate'
+export * from './ViewAsset'
