@@ -4,6 +4,8 @@ A web-based asset and equipment borrowing management system. BarrowIt lets
 administrators manage assets, categories, events, and accounts, while users can
 browse, reserve, and borrow assets and track their history.
 
+![BarrowIt](public/browser-mockup.png)
+
 ## Features
 
 - **Authentication** — login, registration, phone/OTP verification, and password reset
