@@ -4,7 +4,27 @@ A web-based asset and equipment borrowing management system. BarrowIt lets
 administrators manage assets, categories, events, and accounts, while users can
 browse, reserve, and borrow assets and track their history.
 
-![BarrowIt](public/browser-mockup.png)
+## Screenshots
+
+### User Portal
+
+| Landing Page | Browse Assets |
+| :---: | :---: |
+| ![Landing Page](docs/images/landing-page.png) | ![Browse Assets](docs/images/browse-asset.png) |
+
+| Borrow |
+| :---: |
+| ![Borrow](docs/images/borrow.png) |
+
+### Admin Dashboard
+
+| Dashboard | Assets |
+| :---: | :---: |
+| ![Admin Dashboard](docs/images/admin-dashboard.png) | ![Admin Assets](docs/images/admin-assets.png) |
+
+| Borrow Request |
+| :---: |
+| ![Admin Borrow Request](docs/images/admin-borrow-request.png) |
 
 ## Features
 
